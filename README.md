@@ -1,4 +1,4 @@
-# Tic Tac Toe Console Game
+# Tic Tac Toe  Game
 
 ## Project Summary
 The Tic Tac Toe Console Game is a simple yet engaging implementation of the classic Tic Tac Toe game in C#. It offers two modes of play: two-player mode and player vs. computer mode. The game provides a user-friendly interface where players can input their moves via the keyboard, making it accessible to a wide range of users.
